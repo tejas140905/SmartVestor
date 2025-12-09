@@ -194,11 +194,6 @@ Currently uses file-based JSON storage (`backend/data/smartvestor.json`). This c
 - CORS configuration
 - Input validation
 
-## 📚 Documentation
-
-For detailed technical documentation and interview preparation guide, see:
-- [Interview Preparation Guide](./docs/INTERVIEW_PREPARATION.md)
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
